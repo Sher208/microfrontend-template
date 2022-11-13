@@ -4,7 +4,7 @@ import MarketingApp from "./components/MarketingApp";
 export default () => {
   return (
     <React.Fragment>
-      <h1>Create New App - V5</h1>
+      <h1>Create New App - V6</h1>
       <hr />
       <MarketingApp />
     </React.Fragment>
